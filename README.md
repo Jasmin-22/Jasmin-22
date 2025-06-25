@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">⚫ Jasmin Hari</h1>
+<p align="center"><i>"Quietly building an empire with every line of code."</i></p>
 
-<!--
-**Jasmin-22/Jasmin-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🧠 **Who I Am**  
+A focused developer from ECE, turning logic into creation through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Tech Stack**  
+Java | Python | SQL | HTML/CSS | Git | Deep Learning (MobileNet)
+
+📚 **Currently Learning**  
+Java Development | Data Structures & Algorithms
+
+📂 **Highlighted Projects**  
+- 🧠 Alzheimer Detection using Deep Learning (MobileNet)  
+- 🏥 Hospital Patient Record Management System (Java + SQL)
+
+---
+
+📫 **Reach Me**  
+📧 jasminhari2004@gmail.com  
+
+🕶️ _Minimal. Focused. Real._
